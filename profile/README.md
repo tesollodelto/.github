@@ -2,7 +2,7 @@
   <img src="img/tesollo_logo.png" width="306" height="77" alt="Tesollo Logo">
 </div>
 
-TESOLLO is a combination of “Technology” and “Sole,” representing our commitment to leveraging unparalleled technology to open new horizons in the robotic automation market.
+TESOLLO is a combination of “Technology” and “Sole,” representing our commitment to leveraging unparalleled <br>technology to open new horizons in the robotic automation market.
 
 As an innovative company, TESOLLO focuses on solving complex challenges and creating new value for our customers through cutting-edge robotic automation solutions powered by advanced robot grippers.
 
