@@ -1,8 +1,13 @@
-<img src="img src=img/tesollo_logo.png" width="306" height="77" align="center">
+<div align="center">
+  <img src="img/tesollo_logo.png" width="306" height="77" alt="Tesollo Logo">
+</div>
 
 TESOLLO is a combination of “Technology” and “Sole,” representing our commitment to leveraging unparalleled technology to open new horizons in the robotic automation market.
+
 As an innovative company, TESOLLO focuses on solving complex challenges and creating new value for our customers through cutting-edge robotic automation solutions powered by advanced robot grippers.
+
 Our technology goes beyond mere efficiency—it embodies human-centered innovation and sustainable growth. This vision drives us to deliver a uniquely differentiated experience to our global customers.
+
 “Moving the world with unique technology.” TESOLLO strives to build a better tomorrow, connected by technology, together with you.
 
 [![YouTube](https://img.shields.io/badge/YouTube-ff0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@TESOLLO)
