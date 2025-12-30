@@ -30,19 +30,19 @@ Our technology goes beyond mere efficiency—it embodies human-centered innovati
         <td><a href="https://github.com/tesollodelto/delto_m_ros2" target="_blank"> delto_m_ros2</a> <br> ROS2 environment with Tesollo Delto M-series grippers. </td>
     </tr>
     <tr>
-        <td align="center" ><a href="https://tesollo_model"> tesollo_model </a></td>
-        <td>  Robot 3D models for different environments. Related xacro and urdf files <br> could be found <a href="https://github.com/unitreerobotics/unitree_ros/tree/master/robots"> here </a>. </td>
+        <td align="center" ><a href="https://github.com/tesollodelto/delto_model"> delto_model </a></td>
+        <td>  Robot 3D models for different environments. <br>Related xacro and urdf files could be found <a href="https://github.com/tesollodelto/delto_model"> here </a>. </td>
     </tr>
     <tr>
-        <td align="center"> <a href="https://tesollo_mujoco"> tesollo_mujoco </a> </td>
-        <td>  Use Mujoco as a simulator and has sim-to-real implementations, <br> integrate with terrain generator. Support C++/Python interface. </td>
+        <td align="center"> <a href="https://github.com/tesollodelto/delto_mujoco"> delto_mujoco </a> </td>
+        <td>  Use Mujoco as a simulator and has sim-to-real implementations. </td>
     </tr>
     <tr>
-        <td align="center"> <a href="https://tesollo_rl_lab" target="_blank"> unitree_rl_lab </a> </td>
+        <td align="center"> <a href="https://github.com/tesollodelto/delto_rl_lab" target="_blank"> delto_rl_lab </a> </td>
         <td> Reinforcement learning implementation for Tesollo Delto grippers, based on IsaacLab. </td>
     </tr>
     <tr>
-        <td align="center"> <a href="https://tesollo_sim_isaaclab" target="_blank"> tesollo_sim_isaaclab </a> </td>
+        <td align="center"> <a href="https://github.com/tesollodelto/delto_sim_isaaclab" target="_blank"> delto_sim_isaaclab </a> </td>
         <td> Built on Isaac Lab to simulate Tesollo Delto grippers in various tasks, <br>facilitating data collection, playback, generation, and model validation. </td>
     </tr>
     </tbody>
