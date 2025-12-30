@@ -31,7 +31,7 @@ Our technology goes beyond mere efficiency—it embodies human-centered innovati
     </tr>
     <tr>
         <td align="center" ><a href="https://github.com/tesollodelto/delto_model"> delto_model </a></td>
-        <td>  Robot 3D models for different environments. <br>Related xacro and urdf files could be found <a href="https://github.com/tesollodelto/delto_model"> here </a>. </td>
+        <td>  Robot 3D models for different environments. <br>Related xacro and urdf files could be found <a href="https://github.com/tesollodelto/delto_b_ros2/tree/External_control_test/delto_description"> delto_b_description </a> and <a href="https://github.com/tesollodelto/delto_m_ros2/tree/feature/fix-ros2-control-parameter/dg_description"> delto_m_dexcription. </td>
     </tr>
     <tr>
         <td align="center"> <a href="https://github.com/tesollodelto/delto_mujoco"> delto_mujoco </a> </td>
