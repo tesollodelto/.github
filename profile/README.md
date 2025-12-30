@@ -38,8 +38,8 @@ Our technology goes beyond mere efficiency—it embodies human-centered innovati
         <td>  Use Mujoco as a simulator and has sim-to-real implementations. </td>
     </tr>
     <tr>
-        <td align="center"> <a href="https://github.com/tesollodelto/delto_rl_lab" target="_blank"> delto_rl_lab </a> </td>
-        <td> Reinforcement learning implementation for Tesollo Delto grippers, based on IsaacLab. </td>
+        <td align="center"> <a href="https://github.com/tesollodelto/delto_rl" target="_blank"> delto_rl </a> </td>
+        <td> Reinforcement learning implementation for Tesollo Delto grippers. </td>
     </tr>
     <!-- <tr>
         <td align="center"> <a href="https://github.com/tesollodelto/delto_sim_isaaclab" target="_blank"> delto_sim_isaaclab </a> </td>
