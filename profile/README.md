@@ -25,7 +25,7 @@ Our technology goes beyond mere efficiency—it embodies human-centered innovati
         <td colspan="1" rowspan="2" align="center" class="ai-notebooks-table-points ai-orange-link">
             <a href="https://www.ros.org/" target="_blank"> ROS2</a>
         </td>
-        <td><a href="https://github.com/tesollodelto/delto_b_ros2" target="_blank"> delto_b_ros2 </a> <br> ROS environment with Tesollo Delto B-series grippers <br> ⚠️ <b>Note:</b> We discontinue support for Delto B-series soon. We highly recommend using Delto M-series. </td>
+        <td><a href="https://github.com/tesollodelto/delto_b_ros2" target="_blank"> delto_b_ros2 </a> <br> ROS environment with Tesollo Delto B-series grippers <br> ⚠️ <b>Note:</b> We will discontinue support for Delto B-series soon. We highly recommend using Delto M-series. </td>
     </tr>
     <tr>
         <td><a href="https://github.com/tesollodelto/delto_m_ros2" target="_blank"> delto_m_ros2</a> <br> ROS2 environment with Tesollo Delto M-series grippers. <br> 💡 <b>Note:</b> Support for DG5Fs will be added soon. </td>
