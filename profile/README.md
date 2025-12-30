@@ -1,16 +1,12 @@
-<img src="https://www.unitree.com/images/0079f8938336436e955ea3a98c4e1e59.svg" width="306" height="77" align="center">
+<img src="img src="img/%5Bgithub%5D%20tesollo_logo.png"" width="306" height="77" align="center">
 
-Unitree Robotics is focusing on the R&D, production, and sales of consumer and industry-class high-performance general-purpose legged and humanoid robots, six-axis manipulators, and so on. We attaches great importance to independent research and development and technological innovation, fully self-researching key core robot components such as motors, reducers, controllers, LIDAR and high-performance perception and motion control algorithms, integrating the entire robotics industry chain.
+TESOLLO is a combination of “Technology” and “Sole,” representing our commitment to leveraging unparalleled technology to open new horizons in the robotic automation market.
+As an innovative company, TESOLLO focuses on solving complex challenges and creating new value for our customers through cutting-edge robotic automation solutions powered by advanced robot grippers.
+Our technology goes beyond mere efficiency—it embodies human-centered innovation and sustainable growth. This vision drives us to deliver a uniquely differentiated experience to our global customers.
+“Moving the world with unique technology.” TESOLLO strives to build a better tomorrow, connected by technology, together with you.
 
 [![YouTube](https://img.shields.io/badge/YouTube-ff0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@TESOLLO)
 [![Email](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:support@tesollo.com)
-<a href="https://github.com/tesollodelto">
-<img src="https://badges.strrl.dev/years/unitreerobotics?style=flat-square&logo=github">
-</a>
-<a href="https://github.com/unitreerobotics?tab=repositories">
-<img src="https://badges.strrl.dev/repos/unitreerobotics?style=flat-square&logo=github">
-</a>
-
 
 <table><tbody>
 
