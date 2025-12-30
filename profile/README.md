@@ -2,13 +2,10 @@
   <img src="img/tesollo_logo.png" width="306" height="77" alt="Tesollo Logo">
 </div>
   
-Tesollo is a robotics company specializing in the research, development, and manufacturing of advanced multi-joint robotic grippers and dexterous robotic hands.
-With a strong foundation in mechatronics, precision actuation, and control systems, Tesollo focuses on enabling high-level manipulation capabilities required for next-generation automation.
+Tesollo designs and manufactures advanced robotic grippers and dexterous hands for next-generation automation.
+We develop core technologies in-house—direct-drive actuation, high-DOF mechanisms, sensing interfaces, and real-time control—to enable precise and reliable manipulation.
 
-We place a strong emphasis on in-house R&D and technological innovation, developing core technologies such as direct-drive actuation, high-DOF finger mechanisms, force and tactile sensing interfaces, and real-time control architectures.
-
-Our solutions are designed to integrate seamlessly with modern robotics and AI frameworks, supporting research, industrial automation, and emerging humanoid robotics applications.
-Tesollo aims to provide scalable and customizable manipulation platforms that bridge the gap between human-level dexterity and real-world robotic systems.
+Our products integrate smoothly with modern robotics and AI frameworks, supporting research, industrial automation, and emerging humanoid applications. We provide scalable, customizable manipulation platforms that help teams move from lab prototypes to real-world deployment.
 
 
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@TESOLLO)
