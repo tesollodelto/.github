@@ -1,4 +1,4 @@
-<img src="img src="img/%5Bgithub%5D%20tesollo_logo.png"" width="306" height="77" align="center">
+<img src="img src="img/tesollo_logo.png"" width="306" height="77" align="center">
 
 TESOLLO is a combination of “Technology” and “Sole,” representing our commitment to leveraging unparalleled technology to open new horizons in the robotic automation market.
 As an innovative company, TESOLLO focuses on solving complex challenges and creating new value for our customers through cutting-edge robotic automation solutions powered by advanced robot grippers.
