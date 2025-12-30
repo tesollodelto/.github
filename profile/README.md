@@ -43,7 +43,7 @@ Our technology goes beyond mere efficiency—it embodies human-centered innovati
         <td> Reinforcement learning implementation for Tesollo Delto grippers. </td>
     </tr>
     <tr>
-        <td align="center"> <a href="https://github.com/tesollodelto/delto_documentation" target="_blank"> delto_documentation </a> </td>
+        <td align="center"> <a href="https://github.com/tesollodelto/delto_doc" target="_blank"> delto_doc </a> </td>
         <td> Documentation for Tesollo Delto grippers. </td>
     </tr>
     <!-- <tr>
