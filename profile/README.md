@@ -14,12 +14,10 @@ Our technology goes beyond mere efficiency—it embodies human-centered innovati
 
 <table class="table table-striped table-bordered table-vcenter"/>
     <tbody>
-    <tr><th> Title </th> <th>Description</th> <th>Stars</th> <th>Forks</th></tr>
+    <tr><th> Title </th> <th>Description</th></tr>
     <tr>
-        <td align="center" ><a href="https://github.com/unitreerobotics/unitree_model"> unitree_model </a></td>
+        <td align="center" ><a href="https://tesollo_model"> tesollo_model </a></td>
         <td>  Robot 3D models for different environments. Related xacro and urdf files <br> could be found <a href="https://github.com/unitreerobotics/unitree_ros/tree/master/robots"> here </a>. </td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/unitreerobotics/unitree_model?style=flat-square"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/unitreerobotics/unitree_model?style=flat-square"/></td>
     </tr>
     <tr>
         <td colspan="1" rowspan="2" align="center" class="ai-notebooks-table-points ai-orange-link">
