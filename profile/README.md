@@ -42,6 +42,10 @@ Our technology goes beyond mere efficiency—it embodies human-centered innovati
         <td align="center"> <a href="https://github.com/tesollodelto/delto_rl" target="_blank"> delto_rl </a> </td>
         <td> Reinforcement learning implementation for Tesollo Delto grippers. </td>
     </tr>
+    <tr>
+        <td align="center"> <a href="https://github.com/tesollodelto/delto_documentation" target="_blank"> delto_documentation </a> </td>
+        <td> Documentation for Tesollo Delto grippers. </td>
+    </tr>
     <!-- <tr>
         <td align="center"> <a href="https://github.com/tesollodelto/delto_sim_isaaclab" target="_blank"> delto_sim_isaaclab </a> </td>
         <td> Built on Isaac Lab to simulate Tesollo Delto grippers in various tasks, <br>facilitating data collection, playback, generation, and model validation. </td>
