@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
   <img src="img/tesollo_logo.png" width="306" height="77" alt="Tesollo Logo">
 </div>
 
