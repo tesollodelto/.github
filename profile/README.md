@@ -7,7 +7,7 @@ With a strong foundation in mechatronics, precision actuation, and control syste
 We place a strong emphasis on in-house R&D and technological innovation, developing core technologies such as direct-drive actuation, high-DOF finger mechanisms, force and tactile sensing interfaces, and real-time control architectures.
 Our solutions are designed to integrate seamlessly with modern robotics and AI frameworks, supporting research, industrial automation, and emerging humanoid robotics applications.
 Tesollo aims to provide scalable and customizable manipulation platforms that bridge the gap between human-level dexterity and real-world robotic systems.
-
+<br>
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@TESOLLO)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/69601528/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:support@tesollo.com)
