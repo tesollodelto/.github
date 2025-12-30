@@ -31,7 +31,7 @@ Our technology goes beyond mere efficiency—it embodies human-centered innovati
         
     <tr>
         <td align="center"> <a href="https://tesollo_mujoco"> tesollo_mujoco </a> </td>
-        <br>  Use Mujoco as a simulator and has sim-to-real implementations, integrate with terrain generator. Support C++/Python interface. </td>
+        <td>  Use Mujoco as a simulator and has sim-to-real implementations, <br> integrate with terrain generator. Support C++/Python interface. </td>
     </tr>
     <tr>
         <td align="center"> <a href="https://tesollo_rl_lab" target="_blank"> unitree_rl_lab </a> </td>
