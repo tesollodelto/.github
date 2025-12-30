@@ -11,6 +11,7 @@ Our technology goes beyond mere efficiency—it embodies human-centered innovati
 “Moving the world with unique technology.” TESOLLO strives to build a better tomorrow, connected by technology, <br>together with you.
 
 [![YouTube](https://img.shields.io/badge/YouTube-ff0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@TESOLLO)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/tesollo/)
 [![Email](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:support@tesollo.com)
 
 <table><tbody>
