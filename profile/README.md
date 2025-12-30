@@ -24,10 +24,10 @@ Our technology goes beyond mere efficiency—it embodies human-centered innovati
         <td colspan="1" rowspan="2" align="center" class="ai-notebooks-table-points ai-orange-link">
             <a href="https://www.ros.org/" target="_blank"> ROS2</a>
         </td>
-        <td><a href="https://ros_b" target="_blank"> tesollo_ros2_b </a> <br> ROS simulation package. It has urdf files of all Tesollo Delto series grippers, <br>contains information such as  mass, inertia, moment, limit and so on. <br> Newly support DG5Fs.</td>
+        <td><a href="https://github.com/tesollodelto/delto_b_ros2" target="_blank"> delto_b_ros2 </a> <br> ROS environment with Tesollo Delto B-series grippers <br> **Newly support DG5Fs.</td>
     </tr>
     <tr>
-        <td><a href="https://ros2_m" target="_blank"> tesollo_ros2_m</a> <br> ros2 environment. <br>The interface types provided are consistent with tesollo. </td>
+        <td><a href="https://github.com/tesollodelto/delto_m_ros2" target="_blank"> delto_m_ros2</a> <br> ROS2 environment with Tesollo Delto M-series grippers. </td>
     </tr>
     <tr>
         <td align="center" ><a href="https://tesollo_model"> tesollo_model </a></td>
