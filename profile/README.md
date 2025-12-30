@@ -2,13 +2,9 @@
 
 Unitree Robotics is focusing on the R&D, production, and sales of consumer and industry-class high-performance general-purpose legged and humanoid robots, six-axis manipulators, and so on. We attaches great importance to independent research and development and technological innovation, fully self-researching key core robot components such as motors, reducers, controllers, LIDAR and high-performance perception and motion control algorithms, integrating the entire robotics industry chain.
 
-[![Twitter](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white)](https://twitter.com/UnitreeRobotics)
-[![YouTube](https://img.shields.io/badge/YouTube-ff0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCsMbp4V8oxzHCMdOUP-3oWw/featured)
-[![Facebook](https://img.shields.io/badge/facebook-%231877F2?style=flat&labelColor=231877F2&logo=facebook&logoColor=white)](http://www.facebook.com/UnitreeRobotics)
-[![Bilibili](https://img.shields.io/badge/-bilibili-ff69b4?style=flat&labelColor=ff69b4&logo=bilibili&logoColor=white)](https://space.bilibili.com/521974986)
-[![Doc](https://img.shields.io/badge/Doc-FFA500?style=flat&logo=rss&logoColor=white)](https://support.unitree.com/main)
-[![Email](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:Laikago@unitree.cc)
-<a href="https://github.com/unitreerobotics">
+[![YouTube](https://img.shields.io/badge/YouTube-ff0000?style=flat&logo=youtube&logoColor=white)]([https://www.youtube.com/channel/UCsMbp4V8oxzHCMdOUP-3oWw/featured](https://www.youtube.com/@TESOLLO))
+[![Email](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:support@tesollo.com)
+<a href="https://github.com/tesollodelto">
 <img src="https://badges.strrl.dev/years/unitreerobotics?style=flat-square&logo=github">
 </a>
 <a href="https://github.com/unitreerobotics?tab=repositories">
