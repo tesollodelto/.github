@@ -29,15 +29,15 @@ Our technology goes beyond mere efficiency—it embodies human-centered innovati
         <td><a href="https://ros2_m" target="_blank"> tesollo_ros2_m</a> <br> ros2 environment. <br>The interface types provided are consistent with tesollo. </td>
     </tr>
     <tr>
-        <td align="center" ><a href="https://tesollo_mujoco"> tesollo_mujoco </a></td>
+        <td align="center"><a href="https://tesollo_mujoco"> tesollo_mujoco </a></td>
         <td>  Use Mujoco as a simulator and has sim-to-real implementations, integrate with <br>
         terrain generator. Support C++/Python interface. </td>
     </tr>
     <tr>
-        <td><a href="https://tesollo_rl_lab" target="_blank"> unitree_rl_lab</a> <br> Reinforcement learning implementation for Tesollo Delto grippers, based on IsaacLab. </td>
+        <td align="center"><a href="https://tesollo_rl_lab" target="_blank"> unitree_rl_lab</a> <br> Reinforcement learning implementation for Tesollo Delto grippers, based on IsaacLab. </td>
     </tr>
     <tr>
-        <td><a href="https://tesollo_sim_isaaclab" target="_blank"> tesollo_sim_isaaclab </a> <br> Built on Isaac Lab to simulate Tesollo Delto grippers in various tasks, facilitating data collection, playback, generation, and model validation. </td>
+        <td align="center"><a href="https://tesollo_sim_isaaclab" target="_blank"> tesollo_sim_isaaclab </a> <br> Built on Isaac Lab to simulate Tesollo Delto grippers in various tasks, facilitating data collection, playback, generation, and model validation. </td>
     </tr>
     </tbody>
 </table>
