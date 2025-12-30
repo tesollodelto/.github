@@ -30,13 +30,16 @@ Our technology goes beyond mere efficiency—it embodies human-centered innovati
     </tr>
         
     <tr>
-        <td align="center"><a href="https://tesollo_mujoco"> tesollo_mujoco </a> <td>  Use Mujoco as a simulator and has sim-to-real implementations, integrate with terrain generator. Support C++/Python interface. </td>
+        <td align="center"><a href="https://tesollo_mujoco"> tesollo_mujoco </a> </td>
+        <td>  Use Mujoco as a simulator and has sim-to-real implementations, integrate with terrain generator. Support C++/Python interface. </td>
     </tr>
     <tr>
-        <td align="center"><a href="https://tesollo_rl_lab" target="_blank"> unitree_rl_lab </a> <td> Reinforcement learning implementation for Tesollo Delto grippers, based on IsaacLab. </td>
+        <td align="center"><a href="https://tesollo_rl_lab" target="_blank"> unitree_rl_lab </a> </td>
+        <td> Reinforcement learning implementation for Tesollo Delto grippers, based on IsaacLab. </td>
     </tr>
     <tr>
-        <td align="center"><a href="https://tesollo_sim_isaaclab" target="_blank"> tesollo_sim_isaaclab </a> <td> Built on Isaac Lab to simulate Tesollo Delto grippers in various tasks, facilitating data collection, playback, generation, and model validation. </td>
+        <td align="center"><a href="https://tesollo_sim_isaaclab" target="_blank"> tesollo_sim_isaaclab </a> </td>
+        <td> Built on Isaac Lab to simulate Tesollo Delto grippers in various tasks, facilitating data collection, playback, generation, and model validation. </td>
     </tr>
     </tbody>
 </table>
