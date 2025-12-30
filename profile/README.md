@@ -28,7 +28,6 @@ Our technology goes beyond mere efficiency—it embodies human-centered innovati
     <tr>
         <td><a href="https://ros2_m" target="_blank"> tesollo_ros2_m</a> <br> ros2 environment. <br>The interface types provided are consistent with tesollo. </td>
     </tr>
-        
     <tr>
         <td align="center"> <a href="https://tesollo_mujoco"> tesollo_mujoco </a> </td>
         <td>  Use Mujoco as a simulator and has sim-to-real implementations, <br> integrate with terrain generator. Support C++/Python interface. </td>
