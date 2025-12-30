@@ -1,8 +1,7 @@
 <div align="left">
   <img src="img/tesollo_logo.png" width="306" height="77" alt="Tesollo Logo">
 </div>
-
-
+  
 Tesollo is a robotics company specializing in the research, development, and manufacturing of advanced multi-joint robotic grippers and dexterous robotic hands.
 With a strong foundation in mechatronics, precision actuation, and control systems, Tesollo focuses on enabling high-level manipulation capabilities required for next-generation automation.
 
