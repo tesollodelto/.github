@@ -34,7 +34,11 @@ Our products integrate smoothly with modern robotics and AI frameworks, supporti
     </tr>
     <tr>
         <td align="center"> <a href="https://github.com/tesollodelto/delto_mujoco"> delto_mujoco </a> </td>
-        <td> Uses Mujoco as a simulator and features sim-to-real implementations. </td>
+        <td> Uses Mujoco as a simulator. </td>
+    </tr>
+    <tr>
+        <td align="center"> <a href="https://github.com/tesollodelto/delto_isaac"> delto_isaac </a> </td>
+        <td> Uses Isaac Sim/Lab as a simulator. </td>
     </tr>
     <tr>
         <td align="center"> <a href="https://github.com/tesollodelto/delto_rl" target="_blank"> delto_rl </a> </td>
