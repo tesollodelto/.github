@@ -23,7 +23,8 @@ Our products integrate smoothly with modern robotics and AI frameworks, supporti
         <td colspan="1" rowspan="2" align="center" class="ai-notebooks-table-points ai-orange-link">
             <a href="https://www.ros.org/" target="_blank"> ROS2</a>
         </td>
-        <td><a href="https://github.com/tesollodelto/delto_b_ros2" target="_blank"> delto_b_ros2 </a> <br> ROS environment with Tesollo Delto B-series grippers <br> 🚫 <b>EOL Announcement:</b> The Delto B-series is discontinued; While we continue to provide A/S and parts support for existing users, this ROS2 package is now in legacy status. For potential users, please watch the Delto M-series <a href="https://github.com/tesollodelto/delto_m_ros2" target="_blank"> delto_m_ros2</a>. </td>
+        <small>
+        🚫 <b>EOL Announcement:</b> The Delto B-series is discontinued; While we continue to provide A/S and parts support for existing users, this ROS2 package is now in legacy status. For potential users, please watch the Delto M-series <a href="https://github.com/tesollodelto/delto_m_ros2" target="_blank"> delto_m_ros2</a>.</small>
     </tr>
     <tr>
         <td><a href="https://github.com/tesollodelto/delto_m_ros2" target="_blank"> delto_m_ros2</a> <br> ROS2 environment with Tesollo Delto M-series grippers. <br> 💡 <b>Note:</b> Support for DG5Fs will be added soon. </td>
