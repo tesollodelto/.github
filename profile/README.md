@@ -39,27 +39,27 @@ Our products integrate smoothly with modern robotics and AI frameworks, supporti
       </td>
     </tr>
     <tr>
-      <td align="center"><a href="https://github.com/tesollodelto/delto_model">delto_model</a></td>
+      <td align="center"><a href="https://github.com/tesollodelto/tesollo_model">tesollo_model</a></td>
       <td>
         Robot 3D models for different environments.<br>
         <small>Related xacro and urdf files could be found in <a href="https://github.com/tesollodelto/delto_b_ros2/tree/External_control_test/delto_description/urdf">delto_b_description</a> and <a href="https://github.com/tesollodelto/delto_m_ros2/tree/feature/fix-ros2-control-parameter/dg_description/urdf">delto_m_description</a>.</small>
       </td>
     </tr>
-    <tr>
-      <td align="center"><a href="https://github.com/tesollodelto/delto_mujoco">delto_mujoco</a></td>
+    <!-- <tr>
+      <td align="center"><a href="https://github.com/tesollodelto/tesollo_mujoco">delto_mujoco</a></td>
       <td>Uses Mujoco as a simulator.</td>
-    </tr>
-    <tr>
-      <td align="center"><a href="https://github.com/tesollodelto/delto_isaac">delto_isaac</a></td>
+    </tr> -->
+    <!-- <tr>
+      <td align="center"><a href="https://github.com/tesollodelto/tesollo_isaac">delto_isaac</a></td>
       <td>Uses Isaac Sim/Lab as a simulator.</td>
-    </tr>
-    <tr>
-      <td align="center"><a href="https://github.com/tesollodelto/delto_rl" target="_blank">delto_rl</a></td>
+    </tr> -->
+    <!-- <tr>
+      <td align="center"><a href="https://github.com/tesollodelto/tesollo_rl" target="_blank">delto_rl</a></td>
       <td>Reinforcement learning implementation for Tesollo Delto grippers.</td>
-    </tr>
-    <tr>
-      <td align="center"><a href="https://github.com/tesollodelto/delto_doc" target="_blank">delto_doc</a></td>
+    </tr> -->
+    <!-- <tr>
+      <td align="center"><a href="https://github.com/tesollodelto/tesollo_doc" target="_blank">delto_doc</a></td>
       <td>Documentation for Tesollo Delto grippers.</td>
-    </tr>
+    </tr> -->
   </tbody>
 </table>
