@@ -20,6 +20,9 @@ Our products integrate smoothly with modern robotics and AI frameworks, supporti
   </thead>
   <tbody>
     <tr>
+      <td rowspan="2" align="center" valign="middle">
+        <a href="https://www.ros.org/" target="_blank">ROS2</a>
+      </td>
       <td>
         <a href="https://github.com/tesollodelto/delto_m_ros2" target="_blank"><b>delto_m_ros2</b></a><br>
         ROS2 environment with Tesollo Delto M-series grippers.<br>
@@ -27,9 +30,6 @@ Our products integrate smoothly with modern robotics and AI frameworks, supporti
       </td>
     </tr>
     <tr>
-      <td rowspan="2" align="center" valign="middle">
-        <a href="https://www.ros.org/" target="_blank">ROS2</a>
-      </td>
       <td>
         <a href="https://github.com/tesollodelto/delto_b_ros2" target="_blank"><b>delto_b_ros2</b></a><br>
         ROS environment with Tesollo Delto B-series grippers<br>
