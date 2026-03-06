@@ -26,7 +26,7 @@ Our products integrate smoothly with modern robotics and AI frameworks, supporti
       <td>
         <a href="https://github.com/tesollodelto/delto_m_ros2" target="_blank"><b>delto_m_ros2</b></a><br>
         ROS2 environment with Tesollo Delto M-series grippers.<br>
-        <small>💡 <b>Note:</b> Support for DG5F-S will be added soon.</small>
+        <small>💡 <b>Note:</b> DG5F-S models are now available! <a href="https://github.com/tesollodelto/delto_model/tree/main/dg5fs">dg5fs</a> </small>
       </td>
     </tr>
     <tr>
