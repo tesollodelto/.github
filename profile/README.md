@@ -39,10 +39,10 @@ Our products integrate smoothly with modern robotics and AI frameworks, supporti
       </td>
     </tr>
     <tr>
-      <td align="center"><a href="https://github.com/tesollodelto/tesollo_model">tesollo_model</a></td>
+      <td align="center"><a href="https://github.com/tesollodelto/delto_model/tree/main">tesollo_model</a></td>
       <td>
         Robot 3D models for different environments.<br>
-        <small>Related xacro and urdf files could be found in <a href="https://github.com/tesollodelto/delto_b_ros2/tree/External_control_test/delto_description/urdf">delto_b_description</a> and <a href="https://github.com/tesollodelto/delto_m_ros2/tree/feature/fix-ros2-control-parameter/dg_description/urdf">delto_m_description</a>.</small>
+        <!-- <small>Related xacro and urdf files could be found in <a href="https://github.com/tesollodelto/delto_b_ros2/tree/External_control_test/delto_description/urdf">delto_b_description</a> and <a href="https://github.com/tesollodelto/delto_m_ros2/tree/feature/fix-ros2-control-parameter/dg_description/urdf">delto_m_description</a>.</small> -->
       </td>
     </tr>
     <!-- <tr>
