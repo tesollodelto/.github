@@ -29,7 +29,7 @@ Our products integrate smoothly with modern robotics and AI frameworks, supporti
         <small>💡 <b>Note:</b> DG5F-S models are now available! <a href="https://github.com/tesollodelto/delto_model/tree/main/dg5fs">dg5fs</a> </small>
       </td>
     </tr>
-    <tr>
+    <!-- <tr>
       <td>
         <a href="https://github.com/tesollodelto/delto_b_ros2" target="_blank"><b>delto_b_ros2</b></a><br>
         ROS environment with Tesollo Delto B-series grippers<br>
@@ -37,7 +37,7 @@ Our products integrate smoothly with modern robotics and AI frameworks, supporti
           🚫 <b>EOL Announcement:</b> The Delto B-series is discontinued. While we continue to provide A/S and parts support for existing users, this ROS2 package is now in legacy status. For potential users, please watch the Delto M-series <a href="https://github.com/tesollodelto/delto_m_ros2" target="_blank">delto_m_ros2</a>.
         </small>
       </td>
-    </tr>
+    </tr> -->
     <tr>
       <td align="center"><a href="https://github.com/tesollodelto/delto_model/tree/main">tesollo_model</a></td>
       <td>
