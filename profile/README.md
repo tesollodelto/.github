@@ -21,7 +21,7 @@ Our products integrate smoothly with modern robotics and AI frameworks, supporti
   <tbody>
     <tr>
       <td rowspan="2" align="center" valign="middle">
-        <a href="https://www.ros.org/" target="_blank">ROS2</a>
+        <a href="https://github.com/tesollodelto/tesollo_ros2" target="_blank">tesollo_ros2</a>
       </td>
       <td>
         <a href="https://github.com/tesollodelto/delto_m_ros2" target="_blank"><b>delto_m_ros2</b></a><br>
