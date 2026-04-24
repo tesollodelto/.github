@@ -50,7 +50,6 @@ Our products integrate smoothly with modern robotics and AI frameworks, supporti
         <a href="https://github.com/tesollodelto/tesollo-release-notes" target="_blank">tesollo_release_notes</a>
       </td>
       <td>
-        <b>Tesollo Release Notes</b><br>
         Web page providing the latest updates and release notes for Tesollo products and software packages.<br>
       </td>
     </tr>
