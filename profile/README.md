@@ -45,6 +45,17 @@ Our products integrate smoothly with modern robotics and AI frameworks, supporti
         <!-- <small>Related xacro and urdf files could be found in <a href="https://github.com/tesollodelto/delto_b_ros2/tree/External_control_test/delto_description/urdf">delto_b_description</a> and <a href="https://github.com/tesollodelto/delto_m_ros2/tree/feature/fix-ros2-control-parameter/dg_description/urdf">delto_m_description</a>.</small> -->
       </td>
     </tr>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/tesollodelto/tesollo-release-notes" target="_blank">tesollo_release_notes</a>
+      </td>
+      <td>
+        <b>Tesollo Release Notes</b><br>
+        Web page providing the latest updates and release notes for Tesollo products and software packages.<br>
+      </td>
+    </tr>
+
+    
     <!-- <tr>
       <td align="center"><a href="https://github.com/tesollodelto/tesollo_mujoco">delto_mujoco</a></td>
       <td>Uses Mujoco as a simulator.</td>
