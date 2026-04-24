@@ -55,22 +55,5 @@ Our products integrate smoothly with modern robotics and AI frameworks, supporti
       </td>
     </tr>
 
-    
-    <!-- <tr>
-      <td align="center"><a href="https://github.com/tesollodelto/tesollo_mujoco">delto_mujoco</a></td>
-      <td>Uses Mujoco as a simulator.</td>
-    </tr> -->
-    <!-- <tr>
-      <td align="center"><a href="https://github.com/tesollodelto/tesollo_isaac">delto_isaac</a></td>
-      <td>Uses Isaac Sim/Lab as a simulator.</td>
-    </tr> -->
-    <!-- <tr>
-      <td align="center"><a href="https://github.com/tesollodelto/tesollo_rl" target="_blank">delto_rl</a></td>
-      <td>Reinforcement learning implementation for Tesollo Delto grippers.</td>
-    </tr> -->
-    <!-- <tr>
-      <td align="center"><a href="https://github.com/tesollodelto/tesollo_doc" target="_blank">delto_doc</a></td>
-      <td>Documentation for Tesollo Delto grippers.</td>
-    </tr> -->
   </tbody>
 </table>
