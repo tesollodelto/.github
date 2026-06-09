@@ -20,22 +20,19 @@ Our products integrate smoothly with modern robotics and AI frameworks, supporti
   </thead>
   <tbody>
     <tr>
-      <td rowspan="2" align="center" valign="middle">
+      <td align="center" valign="middle">
         <a href="https://github.com/tesollodelto/tesollo_ros2" target="_blank">tesollo_ros2</a>
       </td>
       <td>
-        <!--<a href="https://github.com/tesollodelto/delto_m_ros2" target="_blank"><b>delto_m_ros2</b></a><br>-->
         ROS2 environment with Tesollo Delto M-series grippers.<br>
         <small>💡 <b>Note:</b> DG5F-S models are now available! <a href="https://github.com/tesollodelto/delto_model/tree/main/dg5fs">dg5fs</a> </small>
       </td>
     </tr>
-
     <tr>
       <td align="center"><a href="https://github.com/tesollodelto/delto_model/tree/main">tesollo_model</a></td>
       <td>
         Robot 3D models for different environments.<br>
-        <!-- <small>Related xacro and urdf files could be found in <a href="https://github.com/tesollodelto/delto_b_ros2/tree/External_control_test/delto_description/urdf">delto_b_description</a> and <a href="https://github.com/tesollodelto/delto_m_ros2/tree/feature/fix-ros2-control-parameter/dg_description/urdf">delto_m_description</a>.</small> -->
-      </td>
+        </td>
     </tr>
     <tr>
       <td align="center">
@@ -45,6 +42,5 @@ Our products integrate smoothly with modern robotics and AI frameworks, supporti
         Web page providing the latest updates and release notes for Tesollo products and software packages.<br>
       </td>
     </tr>
-
   </tbody>
 </table>
