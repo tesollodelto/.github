@@ -29,10 +29,19 @@ Our products integrate smoothly with modern robotics and AI frameworks, supporti
       </td>
     </tr>
     <tr>
-      <td align="center"><a href="https://github.com/tesollodelto/delto_model/tree/main">tesollo_model</a></td>
+      <td align="center">
+        <a href="https://github.com/tesollodelto/delto_model/tree/main">tesollo_model</a></td>
       <td>
         Robot 3D models for different environments.<br>
         </td>
+    </tr>
+    <tr>
+      <td align="center" valign="middle">
+        <a href="https://github.com/tesollodelto/tesollo_sensor_lab" target="_blank">tesollo_sensor_lab</a>
+      </td>
+      <td>
+        Finger Tip Sensor configurations for Simulation.<br>
+      </td>
     </tr>
     <tr>
       <td align="center">
