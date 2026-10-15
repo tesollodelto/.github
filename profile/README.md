@@ -1,55 +1,40 @@
+
 <div align="left">
   <img src="img/tesollo_logo.png" width="306" height="77" alt="Tesollo Logo">
 </div>
 
-Tesollo designs and manufactures advanced robotic grippers and dexterous hands for next-generation automation.
-We develop core technologies in-house—direct-drive actuation, high-DOF mechanisms, sensing interfaces, and real-time control—to enable precise and reliable manipulation.
+## About Tesollo
 
-Our products integrate smoothly with modern robotics and AI frameworks, supporting research, industrial automation, and emerging humanoid applications. We provide scalable, customizable manipulation platforms that help teams move from lab prototypes to real-world deployment.
+Tesollo designs and manufactures advanced robotic grippers and dexterous robotic hands for next-generation automation and humanoid robotics.
+
+We develop core technologies in-house, including direct-drive actuation, high-DoF mechanisms, sensing interfaces, and real-time control, to enable precise and reliable manipulation.
+
+Our products integrate with modern robotics and AI frameworks, supporting robotics research, industrial automation, and humanoid applications. We provide scalable and customizable manipulation platforms that help teams move from laboratory research to real-world deployment.
 
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@TESOLLO)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/69601528/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:support@tesollo.com)
 
-<table class="table table-striped table-bordered table-vcenter">
-  <thead>
-    <tr>
-      <th>Title</th>
-      <th>Description</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center" valign="middle">
-        <a href="https://github.com/tesollodelto/tesollo_ros2" target="_blank">tesollo_ros2</a>
-      </td>
-      <td>
-        ROS2 environment with Tesollo Delto M-series grippers.<br>
-        <small>💡 <b>Note:</b> DG5F-S models are now available! <a href="https://github.com/tesollodelto/delto_model/tree/main/dg5fs">dg5fs</a> </small>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <a href="https://github.com/tesollodelto/delto_model/tree/main">tesollo_model</a></td>
-      <td>
-        Robot 3D models for different environments.<br>
-        </td>
-    </tr>
-    <tr>
-      <td align="center" valign="middle">
-        <a href="https://github.com/tesollodelto/tesollo_sensor_lab" target="_blank">tesollo_sensor_lab</a>
-      </td>
-      <td>
-        Finger Tip Sensor configurations for Simulation.<br>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <a href="https://github.com/tesollodelto/tesollo-release-notes" target="_blank">tesollo_release_notes</a>
-      </td>
-      <td>
-        Web page providing the latest updates and release notes for Tesollo products and software packages.<br>
-      </td>
-    </tr>
-  </tbody>
-</table>
+---
+
+## Developer Resources
+
+Explore open-source software, robot models, simulation tools, and technical documentation for Tesollo robotic hands and grippers.
+
+| Resource | Description |
+|---|---|
+| [ROS 2 Drivers & Packages](https://github.com/tesollodelto/tesollo_ros2) | ROS 2 drivers, ros2_control interfaces, MoveIt 2, Gazebo simulation, and SDK integration resources. |
+| [Robot Models – URDF, USD, XML](https://github.com/tesollodelto/tesollo_model) | Robot models for simulation, visualization, motion planning, and system integration. |
+| [NVIDIA Isaac Lab / Isaac Sim – Tactile Sensor Integration](https://github.com/tesollodelto/tesollo_sensor_lab) | Tactile sensor modules, configurations, and simulation integration examples. |
+| [Release Notes – DGManager, DGSDK, Firmware](https://tesollodelto.github.io/tesollo-release-notes/) | Version histories, software updates, new features, improvements, and bug fixes. |
+
+## Documentation & Support
+
+- **[ROS 2 Integration Guide](https://tesollodelto.github.io/tesollo_ros2/)** – Installation, configuration, motion planning, simulation, and control guides.
+- **[Downloads & Developer Resources](https://www.tesollo.com/support/download)** – Hardware manuals, software, SDK resources, robot models, and release notes.
+- **[Official Website](https://www.tesollo.com)** – Product specifications, applications, and company information.
+- **Technical Support:** support@tesollo.com
+
+---
+
+**Tesollo — All in on robotic hands.**
