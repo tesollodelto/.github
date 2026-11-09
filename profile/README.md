@@ -25,7 +25,8 @@ Explore open-source software, robot models, simulation tools, and technical docu
 |---|---|
 | [ROS 2 Drivers & Packages](https://github.com/tesollodelto/tesollo_ros2) | ROS 2 drivers, ros2_control interfaces, MoveIt 2, Gazebo simulation, and SDK integration resources. |
 | [Robot Models – URDF, USD, XML](https://github.com/tesollodelto/tesollo_model) | Robot models for simulation, visualization, motion planning, and system integration. |
-| [NVIDIA Isaac Lab / Isaac Sim – Tactile Sensor Integration](https://github.com/tesollodelto/tesollo_sensor_lab) | Tactile sensor modules, configurations, and simulation integration examples. |
+| [Fingertip Sensors – Simulation Sensor Integration](https://github.com/tesollodelto/tesollo_sensor_lab) | Tactile sensor modules, configurations, and simulation integration examples. |
+| [Reinforcement Learning Tutorial](https://github.com/tesollodelto/tesollo_rl) | Reinforcement learning environments, task configurations, and training examples based on NVIDIA Isaac Sim and Isaac Lab. |
 | [Release Notes – DGManager, DGSDK, Firmware](https://tesollodelto.github.io/tesollo-release-notes/) | Version histories, software updates, new features, improvements, and bug fixes. |
 
 ## Documentation & Support
